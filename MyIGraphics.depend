@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1391970930 source:c:\documents and settings\administrator\desktop\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1456757719 c:\documents and settings\administrator\desktop\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1457313346 source:c:\documents and settings\administrator\desktop\copy of myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108167 c:\documents and settings\administrator\desktop\copy of myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1457313346 source:c:\documents and settings\administrator\desktop\copy of myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1462159437 source:c:\users\user\desktop\new folder\copy of myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108167 c:\users\user\desktop\new folder\copy of myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462159751 source:c:\users\user\desktop\new folder\copy of myigraphics\balldemo.cpp
+	"iGraphics.h"
+
+1462159787 source:c:\users\user\desktop\new folder\copy of myigraphics\mousedemo.cpp
+	"iGraphics.h"
+
+1462159912 source:c:\users\user\desktop\new folder\copy of myigraphics\textinputdemo.cpp
+	"iGraphics.h"
+
+1457313346 source:c:\users\user\desktop\new folder\copy of myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1457313346 source:c:\users\user\desktop\new folder\copy of myigraphics\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1462160910 source:c:\users\user\desktop\igraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1462108167 c:\users\user\desktop\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1675263667 source:d:\prog\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108168 d:\prog\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462160912 source:d:\prog\igraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1677644134 source:d:\prog\igraphics\myigraphics\new folder\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<unistd.h>
+
+1676559860 d:\prog\igraphics\myigraphics\new folder\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1677644134 source:d:\else\prog\igraphics\myigraphics\new folder\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<unistd.h>
+
+1676559860 d:\else\prog\igraphics\myigraphics\new folder\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
